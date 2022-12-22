@@ -1,5 +1,5 @@
 import game from '../index.js';
-import randomNum from '../randomNum.js';
+import randomNum from '../randomizer.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
