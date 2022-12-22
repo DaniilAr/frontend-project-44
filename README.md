@@ -15,3 +15,9 @@ $ make install
 $ make brain-even
 ```
 [![asciicast](https://asciinema.org/a/mpAPeHwepAxCEsEoxY4DzOpbo.svg)](https://asciinema.org/a/mpAPeHwepAxCEsEoxY4DzOpbo)
+
+## Run brain-calc
+```sh
+$ make brain-calc
+```
+[![asciicast](https://asciinema.org/a/XvICsQBg8J8EZvttSHhJIq9P0.svg)](https://asciinema.org/a/XvICsQBg8J8EZvttSHhJIq9P0)
