@@ -21,3 +21,9 @@ $ make brain-even
 $ make brain-calc
 ```
 [![asciicast](https://asciinema.org/a/XvICsQBg8J8EZvttSHhJIq9P0.svg)](https://asciinema.org/a/XvICsQBg8J8EZvttSHhJIq9P0)
+
+## Run brain-gcd
+```sh
+$ make brain-gcd
+```
+[![asciicast](https://asciinema.org/a/qQNQebT4pTSMGYKtypP6Yoeig.svg)](https://asciinema.org/a/qQNQebT4pTSMGYKtypP6Yoeig)
