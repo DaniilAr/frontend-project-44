@@ -33,3 +33,9 @@ $ make brain-gcd
 $ make brain-progression
 ```
 [![asciicast](https://asciinema.org/a/SyBL7aOIyz3NqdRTT5Vf6hWJi.svg)](https://asciinema.org/a/SyBL7aOIyz3NqdRTT5Vf6hWJi)
+
+## Run brain-prime
+```sh
+$ make brain-prime
+```
+[![asciicast](https://asciinema.org/a/kWVPTS76tPM5gRk6qipdAoSrI.svg)](https://asciinema.org/a/kWVPTS76tPM5gRk6qipdAoSrI)
