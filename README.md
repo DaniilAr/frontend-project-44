@@ -27,3 +27,9 @@ $ make brain-calc
 $ make brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/qQNQebT4pTSMGYKtypP6Yoeig.svg)](https://asciinema.org/a/qQNQebT4pTSMGYKtypP6Yoeig)
+
+## Run brain-progression
+```sh
+$ make brain-progression
+```
+[![asciicast](https://asciinema.org/a/SyBL7aOIyz3NqdRTT5Vf6hWJi.svg)](https://asciinema.org/a/SyBL7aOIyz3NqdRTT5Vf6hWJi)
