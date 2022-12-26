@@ -7,7 +7,7 @@ const createQuestion = () => {
   const progression = randomProgression();
   const skipNum = randomNum10();
   const answer = progression[skipNum].toString();
-  progression[skipNum] = '...';
+  progression[skipNum] = '..';
   const question = progression.join(' ');
   return [question, answer];
 };
