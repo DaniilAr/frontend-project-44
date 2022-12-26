@@ -8,8 +8,8 @@ const randomNum = () => {
 export default randomNum;
 
 export const randomNum10 = () => {
-  const random10 = _.random(1, 9);
-  return random10;
+  const random = _.random(1, 9);
+  return random;
 };
 
 export const randomCharacter = () => {
