@@ -1,5 +1,5 @@
 import game from '../index.js';
-impo/home/daniil/hexlet/frontend-project-44/.githubrt { randomNum10, randomProgression } from '../randomizer.js';
+import { randomNum10, randomProgression } from '../randomizer.js';
 
 const description = 'What number is missing in the progression?';
 
